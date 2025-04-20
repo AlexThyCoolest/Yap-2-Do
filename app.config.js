@@ -16,6 +16,7 @@ export default {
     },
     ios: {
       supportsTablet: true,
+      bundleIdentifier: "com.alexthedev01.yap2do",
     },
     android: {
       package: "com.alexthedev01.yap2do",
