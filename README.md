@@ -65,5 +65,4 @@ No distractions. Just talk, and go.
 
 ## How This Connects to Ethical AI in Education
 
-- **Accessibility**: Not everyone learns or works the same way. Voice-first tools help students who may struggle with writing or organizing thoughts under pressure.
-- **Privacy**: The app doesn’t collect or store personal data. Your voice is only used to help you create your to-do list, and nothing more.
+- This helps students quickly keep track on what things need to be done, so the can stay on top of their assessment and assignments.
