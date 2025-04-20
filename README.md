@@ -65,4 +65,4 @@ No distractions. Just talk, and go.
 
 ## How This Connects to Ethical AI in Education
 
-- This helps students quickly keep track on what things need to be done, so the can stay on top of their assessment and assignments.
+This helps students quickly keep track on what things need to be done, so the can stay on top of their assessment and assignments.
