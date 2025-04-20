@@ -22,3 +22,7 @@ No distractions. Just talk, and go.
 
 - **Accessibility**: Not everyone learns or works the same way. Voice-first tools help students who may struggle with writing or organizing thoughts under pressure.
 - **Privacy**: The app doesn’t collect or store personal data. Your voice is only used to help you create your to-do list, and nothing more.
+
+## Note:
+
+This onlly works for **Android**
