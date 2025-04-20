@@ -2,7 +2,7 @@ import "dotenv/config";
 
 export default {
   expo: {
-    name: "yap-2-do",
+    name: "Yap-2-Do",
     slug: "yap-2-do",
     version: "1.0.0",
     orientation: "portrait",
