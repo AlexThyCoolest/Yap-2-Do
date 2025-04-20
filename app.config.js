@@ -17,6 +17,9 @@ export default {
     ios: {
       supportsTablet: true,
       bundleIdentifier: "com.alexthedev01.yap2do",
+      infoPlist: {
+        ITSAppUsesNonExemptEncryption: false,
+      },
     },
     android: {
       package: "com.alexthedev01.yap2do",
