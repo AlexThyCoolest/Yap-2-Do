@@ -16,7 +16,7 @@ It’s built for students who want to stay on top of their work, stay focused, a
 
 It’s that simple.
 
-No accounts. No distractions. Just talk, and go.
+No distractions. Just talk, and go.
 
 ## How This Connects to Ethical AI in Education
 
